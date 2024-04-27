@@ -34,4 +34,4 @@ client.on('ready', () => {
 }); 
 
 
-client.login("NjYwODY3MTI2NDQ5NTM3MDI2.GG-bCc.ikjIMNsgXjT7FhJ24rYJSCdVZuihlfQi6D7bz8");
+client.login("token");
